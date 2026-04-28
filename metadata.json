@@ -1,0 +1,8 @@
+{
+  "name": "AI相机与博物馆",
+  "description": "让孩子通过AI相机观察世界，在互动博物馆沉淀知识。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
